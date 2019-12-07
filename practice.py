@@ -20,6 +20,31 @@ print(t)
 r = result is not t
 print(r)
 
+# d = int(input("diameter"))
+# print(d/2)
+# print(3.14*(d/2)**2)
+# print(2*3.14*(d/2))
+"""
+print("Sanzhar\n Ormukov")
+print("Aigul\t Saparova")
+print("Aigul\" Ayyyyyeee\"")
+bye="Bye you all"
+print(bye)
+"""
+people='humble'
+print(people[4])
+print(people[:2])
+print(people[-2])
+print(people[2:4])
+
+brainstorming='globalization'
+print(brainstorming[2])
+print(brainstorming[-2])
+print(brainstorming[:5])
+print(brainstorming[:10])
+print(brainstorming[0:len(brainstorming):2])
+print(brainstorming[1:len(brainstorming):2])
+
 
 
 
